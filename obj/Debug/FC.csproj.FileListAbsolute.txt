@@ -1,0 +1,9 @@
+E:\DalamudPlugins\FC\bin\Debug\FC.deps.json
+E:\DalamudPlugins\FC\bin\Debug\FC.dll
+E:\DalamudPlugins\FC\obj\Debug\FC.csproj.AssemblyReference.cache
+E:\DalamudPlugins\FC\obj\Debug\FC.GeneratedMSBuildEditorConfig.editorconfig
+E:\DalamudPlugins\FC\obj\Debug\FC.AssemblyInfoInputs.cache
+E:\DalamudPlugins\FC\obj\Debug\FC.AssemblyInfo.cs
+E:\DalamudPlugins\FC\obj\Debug\FC.csproj.CoreCompileInputs.cache
+E:\DalamudPlugins\FC\obj\Debug\FC.sourcelink.json
+E:\DalamudPlugins\FC\obj\Debug\FC.dll
