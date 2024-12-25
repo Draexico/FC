@@ -1,9 +1,9 @@
 {
-  "Author": "your name here",
-  "Name": "Sample Plugin",
+  "Author": "Draexico",
+  "Name": "FC",
   "InternalName": "FC",
   "AssemblyVersion": "1.0.0.0",
-  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "Description": "/fcg",
   "ApplicableVersion": "any",
   "Tags": [
     "sample",
@@ -15,6 +15,6 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "A short one-liner that shows up in /xlplugins.",
+  "Punchline": "No",
   "AcceptsFeedback": true
 }
